@@ -1,0 +1,101 @@
+idCliente,cliente,segmento,cidade,estado,regiao
+1,Cliente 1,Varejo,Porto Alegre,SP,Sudeste
+2,Cliente 2,Varejo,São Paulo,PR,Sudeste
+3,Cliente 3,Varejo,Curitiba,SP,Sudeste
+4,Cliente 4,Varejo,Curitiba,MG,Sul
+5,Cliente 5,Corporativo,Campinas,RS,Sul
+6,Cliente 6,Corporativo,Belo Horizonte,MG,Sul
+7,Cliente 7,Corporativo,São Paulo,SP,Sul
+8,Cliente 8,Varejo,São Paulo,SP,Sudeste
+9,Cliente 9,Varejo,Porto Alegre,MG,Sudeste
+10,Cliente 10,Varejo,Curitiba,SP,Sul
+11,Cliente 11,Corporativo,Belo Horizonte,MG,Sudeste
+12,Cliente 12,Varejo,Campinas,RS,Sudeste
+13,Cliente 13,Varejo,Curitiba,MG,Sul
+14,Cliente 14,Corporativo,Campinas,RS,Sudeste
+15,Cliente 15,Varejo,Porto Alegre,MG,Sul
+16,Cliente 16,Corporativo,Porto Alegre,SP,Sudeste
+17,Cliente 17,Corporativo,São Paulo,MG,Sul
+18,Cliente 18,Corporativo,Belo Horizonte,SP,Sul
+19,Cliente 19,Varejo,Campinas,MG,Sul
+20,Cliente 20,Varejo,Curitiba,MG,Sul
+21,Cliente 21,Varejo,Porto Alegre,PR,Sudeste
+22,Cliente 22,Varejo,São Paulo,SP,Sul
+23,Cliente 23,Varejo,São Paulo,PR,Sul
+24,Cliente 24,Varejo,Campinas,SP,Sul
+25,Cliente 25,Varejo,Porto Alegre,PR,Sudeste
+26,Cliente 26,Corporativo,Belo Horizonte,RS,Sul
+27,Cliente 27,Varejo,Porto Alegre,MG,Sudeste
+28,Cliente 28,Corporativo,Campinas,SP,Sul
+29,Cliente 29,Varejo,Campinas,SP,Sudeste
+30,Cliente 30,Varejo,Porto Alegre,MG,Sudeste
+31,Cliente 31,Varejo,Campinas,SP,Sul
+32,Cliente 32,Corporativo,Porto Alegre,SP,Sudeste
+33,Cliente 33,Corporativo,Curitiba,PR,Sul
+34,Cliente 34,Corporativo,Porto Alegre,SP,Sul
+35,Cliente 35,Corporativo,Porto Alegre,RS,Sul
+36,Cliente 36,Varejo,Campinas,RS,Sudeste
+37,Cliente 37,Corporativo,Campinas,MG,Sudeste
+38,Cliente 38,Varejo,São Paulo,SP,Sul
+39,Cliente 39,Varejo,São Paulo,MG,Sul
+40,Cliente 40,Corporativo,Curitiba,RS,Sudeste
+41,Cliente 41,Corporativo,São Paulo,SP,Sul
+42,Cliente 42,Corporativo,Porto Alegre,SP,Sul
+43,Cliente 43,Corporativo,Campinas,MG,Sul
+44,Cliente 44,Corporativo,São Paulo,RS,Sudeste
+45,Cliente 45,Corporativo,São Paulo,SP,Sudeste
+46,Cliente 46,Corporativo,Curitiba,MG,Sudeste
+47,Cliente 47,Corporativo,Curitiba,RS,Sul
+48,Cliente 48,Varejo,Porto Alegre,MG,Sul
+49,Cliente 49,Corporativo,Campinas,PR,Sul
+50,Cliente 50,Corporativo,Curitiba,SP,Sudeste
+51,Cliente 51,Varejo,São Paulo,PR,Sul
+52,Cliente 52,Corporativo,Campinas,RS,Sul
+53,Cliente 53,Varejo,Campinas,PR,Sul
+54,Cliente 54,Varejo,São Paulo,PR,Sul
+55,Cliente 55,Corporativo,Curitiba,RS,Sudeste
+56,Cliente 56,Varejo,São Paulo,MG,Sudeste
+57,Cliente 57,Varejo,Campinas,PR,Sul
+58,Cliente 58,Varejo,Belo Horizonte,MG,Sudeste
+59,Cliente 59,Varejo,Belo Horizonte,PR,Sudeste
+60,Cliente 60,Corporativo,Porto Alegre,MG,Sul
+61,Cliente 61,Varejo,São Paulo,RS,Sul
+62,Cliente 62,Corporativo,São Paulo,PR,Sudeste
+63,Cliente 63,Varejo,Porto Alegre,RS,Sul
+64,Cliente 64,Varejo,Porto Alegre,PR,Sudeste
+65,Cliente 65,Varejo,Porto Alegre,RS,Sul
+66,Cliente 66,Varejo,Campinas,RS,Sudeste
+67,Cliente 67,Corporativo,São Paulo,PR,Sul
+68,Cliente 68,Corporativo,Campinas,PR,Sudeste
+69,Cliente 69,Varejo,Porto Alegre,PR,Sudeste
+70,Cliente 70,Varejo,São Paulo,SP,Sudeste
+71,Cliente 71,Corporativo,Campinas,MG,Sul
+72,Cliente 72,Varejo,Campinas,SP,Sudeste
+73,Cliente 73,Varejo,Porto Alegre,SP,Sudeste
+74,Cliente 74,Varejo,São Paulo,RS,Sul
+75,Cliente 75,Corporativo,Porto Alegre,PR,Sul
+76,Cliente 76,Corporativo,São Paulo,MG,Sudeste
+77,Cliente 77,Corporativo,Belo Horizonte,RS,Sudeste
+78,Cliente 78,Varejo,Curitiba,SP,Sul
+79,Cliente 79,Varejo,Curitiba,PR,Sul
+80,Cliente 80,Corporativo,Curitiba,RS,Sul
+81,Cliente 81,Corporativo,Porto Alegre,PR,Sul
+82,Cliente 82,Corporativo,Belo Horizonte,RS,Sul
+83,Cliente 83,Corporativo,São Paulo,PR,Sudeste
+84,Cliente 84,Varejo,Campinas,SP,Sul
+85,Cliente 85,Corporativo,São Paulo,MG,Sudeste
+86,Cliente 86,Varejo,Campinas,SP,Sudeste
+87,Cliente 87,Corporativo,São Paulo,MG,Sudeste
+88,Cliente 88,Varejo,Belo Horizonte,PR,Sul
+89,Cliente 89,Corporativo,Campinas,RS,Sudeste
+90,Cliente 90,Corporativo,Porto Alegre,SP,Sudeste
+91,Cliente 91,Corporativo,São Paulo,MG,Sul
+92,Cliente 92,Corporativo,São Paulo,SP,Sudeste
+93,Cliente 93,Varejo,Campinas,MG,Sudeste
+94,Cliente 94,Corporativo,Porto Alegre,SP,Sul
+95,Cliente 95,Varejo,Porto Alegre,MG,Sudeste
+96,Cliente 96,Varejo,Belo Horizonte,MG,Sudeste
+97,Cliente 97,Varejo,Porto Alegre,PR,Sudeste
+98,Cliente 98,Varejo,Porto Alegre,MG,Sul
+99,Cliente 99,Corporativo,Porto Alegre,PR,Sul
+100,Cliente 100,Varejo,Curitiba,MG,Sul
