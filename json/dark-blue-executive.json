@@ -1,0 +1,133 @@
+{
+  "name": "Dark Blue Executive",
+  "background": "#0B132B",
+  "foreground": "#E5E7EB",
+  "tableAccent": "#3B82F6",
+
+  "dataColors": [
+    "#A5C9FF",
+    "#6FA8FF",
+    "#3B82F6",
+    "#1E40AF",
+    "#FFD6A5",
+    "#FDBA74",
+    "#F59E0B",
+    "#B45309"
+  ],
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#162447"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            },
+            "fontSize": 12,
+            "alignment": "left"
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#9CA3AF"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#1F3C88"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#9CA3AF"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#1F3C88"
+              }
+            }
+          }
+        ],
+        "legend": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#162447"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 36
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#9CA3AF"
+              }
+            },
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
